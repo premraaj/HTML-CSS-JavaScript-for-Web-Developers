@@ -1,0 +1,40 @@
+body {
+	font-size: 16px;
+}
+
+#header-nav {
+	background-color: #82E0AA;
+	border: 0;
+}
+
+.navbar-brand {
+	margin-bottom: 20px;
+}
+.navbar-brand h1 {
+	color: black;
+	text-shadow: 1px 1px 1px #ECF0F1;
+	margin-top: 0;
+  	margin-bottom: 0;
+}
+
+.navbar-brand a:hover, .navbar-brand a:focus {
+	text-decoration: none;
+}
+
+.navbar-toggle {
+	margin-top: 17px;
+}
+
+#nav-list a {
+	text-align: center;
+	background-color: #82E0AA;
+}
+
+#nav-list a span {
+	color: black;
+	font-size: 1.2em;
+}
+
+#nav-list a:hover {
+	background: white;
+}
