@@ -39,8 +39,7 @@ body {
 	background: white;
 }
 
-#chicken-id {
+div h3 {
 	margin-top: -25px;
-	font-size: 1.5em;
 	font-weight: bold;
 }
